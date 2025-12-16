@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
+<!-- ![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg) -->
 ![MasterHead](  https://www.jagannath.org/blog/wp-content/uploads/2021/02/Picture1.png)
 
 
