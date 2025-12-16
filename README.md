@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1581091012184-8a76c2b33f58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8c2VhcmNofDF8fG1hY2hpbmUlMjBhcnRpZmljaWFsfGVufDB8fHx8MTY5NDU4ODU4Nnww&ixlib=rb-4.0.3&q=80&w=1080)
+![MasterHead](https://pixabay.com/images/search/generative%20artificial%20intelligence/?utm_source=chatgpt.com)
 
 <h1 align="center">Hi 👋, I'm Vimlesh Gupta</h1>
 <h3 align="center">A curious mind exploring Machine Learning, Artificial Intelligence, and Generative AI. I enjoy building AI solutions, experimenting with models, and learning something new every day!</h3>
