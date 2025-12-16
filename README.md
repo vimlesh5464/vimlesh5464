@@ -1,10 +1,10 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
+![MasterHead](https://images.unsplash.com/photo-1581091012184-8a76c2b33f58?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8c2VhcmNofDF8fG1hY2hpbmUlMjBhcnRpZmljaWFsfGVufDB8fHx8MTY5NDU4ODU4Nnww&ixlib=rb-4.0.3&q=80&w=1080)
 
 <h1 align="center">Hi 👋, I'm Vimlesh Gupta</h1>
-<h3 align="center">A data enthusiast who loves exploring insights, building meaningful solutions, and breaking things (sometimes accidentally) to learn how to fix them. Always learning, always questioning!</h3>
+<h3 align="center">A curious mind exploring Machine Learning, Artificial Intelligence, and Generative AI. I enjoy building AI solutions, experimenting with models, and learning something new every day!</h3>
 
 <p align="right">
-  <img alt="Coding GIF" src="https://imarticus.org/blog/wp-content/uploads/2020/09/rt.gif" width="300"/>
+  <img alt="ML/AI GIF" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300"/>
 </p>
 
 <p align="left">
@@ -14,21 +14,20 @@
 ---
 
 ### 💬 Ask me about
-**Data Science, Python, PostgreSQL**
+**Machine Learning, AI, Generative AI, Python, PostgreSQL**
 
 ### 📫 How to reach me
 **Email:** vg950683@gmail.com
 
 ### ⚡ Fun Fact
-"My favorite sport? Wrestling with a stubborn dataset until it gives me what I need!"
+"My favorite sport? Wrestling with datasets and AI models until they reveal their secrets!"
 
 ---
 
 ### 🔗 Connect with me
 <p>
   <a href="https://www.instagram.com/vimlesh5464/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="www.linkedin.com/in/vimlesh-gupta-663618208" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <!-- <a href="https://stackoverflow.com/users/29832295" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a> -->
+  <a href="https://www.linkedin.com/in/vimlesh-gupta-663618208/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.kaggle.com/vimleshgupta123" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/VimleshGupta/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
@@ -59,9 +58,10 @@
 ---
 
 ### 🌟 Featured Projects
-- **Data Visualizer**: Interactive dashboards for exploring datasets.  
-- **Python Automation Scripts**: Automating daily workflows with Python.  
+- **Generative AI Models**: AI models for text, image, and data generation.  
 - **ML Models**: Predictive models using PyTorch & TensorFlow.  
+- **Data Visualizer**: Interactive dashboards for exploring datasets.  
+- **Python Automation Scripts**: Automating workflows with Python.  
 
 ---
 
