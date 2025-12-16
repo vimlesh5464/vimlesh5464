@@ -26,7 +26,7 @@
 
 ### 🔗 Connect with me
 <p>
-  <a href="https://www.instagram.com/vimlesh5464/" target="_blank"><img align="center" src="https://help.instagram.com/372819389498306/?helpref=uf_share" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/vimlesh5464/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="www.linkedin.com/in/vimlesh-gupta-663618208" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <!-- <a href="https://stackoverflow.com/users/29832295" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a> -->
   <a href="https://www.kaggle.com/vimleshgupta123" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
